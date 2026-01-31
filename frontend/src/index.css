@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Mukta:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+/* Hindi Language Override */
+body.lang-hi,
+.lang-hi {
+  font-family: 'Mukta', sans-serif !important;
+  font-weight: 600;
+  /* Bold by default for Hindi to improve readability */
+}
+
+/* Ensure headings in Hindi are extra bold */
+.lang-hi h1,
+.lang-hi h2,
+.lang-hi h3,
+.lang-hi h4,
+.lang-hi h5,
+.lang-hi h6 {
+  font-weight: 800;
+}

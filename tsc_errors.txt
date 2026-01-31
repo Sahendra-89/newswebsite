@@ -1,0 +1,78 @@
+﻿src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/App.tsx(2,50): error TS6133: 'ScrollRestoration' is declared but its value is never read.
+src/App.tsx(22,26): error TS2741: Property 'children' is missing in type '{}' but required in type '{ children: any; }'.
+src/components/Footer.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Footer.tsx(15,41): error TS7006: Parameter 'cat' implicitly has an 'any' type.
+src/components/Footer.tsx(15,46): error TS7006: Parameter 'index' implicitly has an 'any' type.
+src/components/Footer.tsx(15,53): error TS7006: Parameter 'self' implicitly has an 'any' type.
+src/components/Footer.tsx(16,37): error TS7006: Parameter 't' implicitly has an 'any' type.
+src/components/Footer.tsx(54,30): error TS2339: Property '_id' does not exist on type 'never'.
+src/components/Footer.tsx(56,61): error TS2339: Property 'name' does not exist on type 'never'.
+src/components/Footer.tsx(60,26): error TS2339: Property 'name' does not exist on type 'never'.
+src/components/Pagination.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/layout/MainLayout.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/layout/MainLayout.tsx(6,23): error TS7031: Binding element 'children' implicitly has an 'any' type.
+src/pages/AboutPage.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/AdminDashboard.tsx(140,31): error TS2554: Expected 1 arguments, but got 0.
+src/pages/AdminDashboard.tsx(155,35): error TS2554: Expected 1 arguments, but got 0.
+src/pages/AdminLogin.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/AdminLogin.tsx(10,27): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/pages/AdminLogin.tsx(14,33): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/pages/ArticlePage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/ArticlePage.tsx(19,22): error TS7006: Parameter 'imagePath' implicitly has an 'any' type.
+src/pages/ArticlePage.tsx(41,39): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+src/pages/ArticlePage.tsx(47,48): error TS7006: Parameter 'a' implicitly has an 'any' type.
+src/pages/ArticlePage.tsx(56,18): error TS2345: Argument of type '"Article not found or server error."' is not assignable to parameter of type 'SetStateAction<null>'.
+src/pages/ArticlePage.tsx(77,30): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(82,50): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(99,25): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(103,21): error TS2339: Property 'excerpt' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(106,52): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(107,58): error TS2339: Property 'excerpt' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(108,64): error TS2339: Property 'image' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(116,18): error TS2339: Property 'image' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(118,38): error TS2339: Property 'image' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(119,26): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(127,40): error TS2339: Property 'category' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(130,24): error TS2339: Property 'category' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(133,24): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(138,41): error TS2339: Property 'date' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(161,60): error TS2339: Property 'content' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(168,27): error TS2339: Property 'category' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(221,46): error TS2339: Property 'category' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(230,41): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(248,28): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(249,39): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(257,28): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/ArticlePage.tsx(260,28): error TS2339: Property 'category' does not exist on type 'never'.
+src/pages/CategoryPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/CategoryPage.tsx(62,55): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/CurrentPages.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/CurrentPages.tsx(13,35): error TS2554: Expected 1 arguments, but got 0.
+src/pages/CurrentPages.tsx(15,49): error TS7006: Parameter 'item' implicitly has an 'any' type.
+src/pages/CurrentPages.tsx(62,51): error TS2339: Property 'id' does not exist on type 'never'.
+src/pages/HomePage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/HomePage.tsx(44,53): error TS2339: Property 'featured' does not exist on type 'never'.
+src/pages/HomePage.tsx(51,44): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/HomePage.tsx(51,54): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/HomePage.tsx(100,30): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/HomePage.tsx(226,37): error TS7006: Parameter 'url' implicitly has an 'any' type.
+src/pages/HomePage.tsx(232,50): error TS2339: Property 'url' does not exist on type 'never'.
+src/pages/HomePage.tsx(236,30): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/HomePage.tsx(237,39): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/HomePage.tsx(247,34): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/HomePage.tsx(265,28): error TS2339: Property 'title' does not exist on type 'never'.
+src/pages/HomePage.tsx(268,28): error TS2339: Property 'views' does not exist on type 'never'.
+src/pages/HomePage.tsx(269,37): error TS2339: Property 'createdAt' does not exist on type 'never'.
+src/pages/HomePage.tsx(289,17): error TS2339: Property 'adBannerImage' does not exist on type '{ channelName: string; channelUrl: string; channelSubscribers: string; }'.
+src/pages/HomePage.tsx(293,30): error TS2339: Property 'adBannerUrl' does not exist on type '{ channelName: string; channelUrl: string; channelSubscribers: string; }'.
+src/pages/HomePage.tsx(299,31): error TS2339: Property 'adBannerImage' does not exist on type '{ channelName: string; channelUrl: string; channelSubscribers: string; }'.
+src/pages/HomePage.tsx(320,41): error TS2339: Property '_id' does not exist on type 'never'.
+src/pages/LoginPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/LoginPage.tsx(6,13): error TS2339: Property 'login' does not exist on type 'AuthContextType | null'.
+src/pages/LoginPage.tsx(11,27): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/pages/LoginPage.tsx(15,33): error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/pages/LoginPage.tsx(21,22): error TS18046: 'err' is of type 'unknown'.
+src/pages/PrivacyPage.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/SearchResultsPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.

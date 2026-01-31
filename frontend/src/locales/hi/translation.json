@@ -1,0 +1,53 @@
+{
+    "navbar": {
+        "latest": "नवीनतम",
+        "business": "व्यापार और अर्थव्यवस्था",
+        "education": "शिक्षा और नौकरियाँ",
+        "entertainment": "मनोरंजन",
+        "health": "स्वास्थ्य और विज्ञान",
+        "international": "अंतर्राष्ट्रीय समाचार",
+        "politics": "राजनीति और सरकार",
+        "region": "क्षेत्रीय",
+        "search_placeholder": "समाचार खोजें...",
+        "login": "लॉग इन",
+        "register": "रजिस्टर",
+        "logout": "लॉग आउट",
+        "premium": "प्रीमियम",
+        "admin": "एडमिन",
+        "world_categories": "विश्व श्रेणियाँ",
+        "direct_access": "सीधी पहुंच",
+        "viral_videos": "वायरल वीडियो",
+        "company_profile": "कंपनी प्रोफाइल",
+        "verified": "सत्यापित",
+        "apply_now": "अभी आवेदन करें",
+        "sign_in": "साइन इन करें"
+    },
+    "footer": {
+        "explore": "एक्सप्लोर करें",
+        "overview": "अवलोकन",
+        "community": "समुदाय",
+        "legal": "कानूनी",
+        "newsletter": "न्यूज़लेटर",
+        "subscribe": "सदस्यता लें",
+        "rights_reserved": "सर्वाधिकार सुरक्षित।",
+        "about": "हमारे बारे में",
+        "careers": "करियर",
+        "contact": "संपर्क करें",
+        "privacy": "गोपनीयता नीति"
+    },
+    "home": {
+        "trending": "ट्रेंडिंग कहानियाँ",
+        "sports_zone": "खेल क्षेत्र",
+        "current_news": "वर्तमान समाचार",
+        "latest_news": "नवीनतम समाचार",
+        "read_more": "और पढ़ें"
+    },
+    "article": {
+        "share": "शेयर करें",
+        "related_stories": "संबंधित कहानियाँ",
+        "trending_now": "अभी ट्रेंडिंग में",
+        "advertisement": "विज्ञापन",
+        "view_grid": "ग्रिड देखें",
+        "link_copied": "लिंक क्लिपबोर्ड पर कॉपी किया गया!"
+    }
+}
